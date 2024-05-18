@@ -1,2 +1,2 @@
-# book-review
+# book-reviews
 Bool reviews, ratings!
